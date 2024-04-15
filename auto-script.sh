@@ -1,0 +1,1 @@
+echo "automate-script"
